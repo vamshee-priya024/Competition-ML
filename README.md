@@ -1,2 +1,2 @@
-# Warm-up-Competition-ML
+# Competition-ML
 Titanic - Machine Learning from Disaster Kaggle competition code
